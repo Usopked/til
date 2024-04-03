@@ -1,4 +1,7 @@
 # til
 today i learned
 
-- **리스트 - 링크 추가예정**
+with open(readme_path, 'w') as readme_file:
+    readme_file.write(readme_text)
+
+print("README.md has been updated with links to TIL subfolders.")
