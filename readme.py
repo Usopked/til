@@ -1,6 +1,6 @@
 import os
 
-til_folder_path = './TIL'
+til_folder_path = './til'
 readme_path = './README.md'
 folders = [f for f in os.listdir(til_folder_path) if os.path.isdir(os.path.join(til_folder_path, f))]
 readme_text = '# Today I Learned\n\n## Topics\n\n'
