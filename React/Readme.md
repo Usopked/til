@@ -1,3 +1,4 @@
-## 리엑트 생태계 정리
+## 리액트 생태계 정리
 <br>
-- **라우팅** : [React Router](avd)
+
+  **라우팅** : [React Router](avd)
