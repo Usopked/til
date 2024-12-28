@@ -1,4 +1,4 @@
-![대략적_구조](./image.jpg)
+![대략적_구조](./Screenshot_20241228_155944_SamsungInternet.jpg)
 
 ### DTE
   - Data Terminal Equipment
