@@ -1,4 +1,4 @@
-![대략적_구조](./Screenshot_20241228_155944_Samsung Internet.jpg)
+![대략적_구조](./dte-dce.jpg)
 
 ### DTE
   - Data Terminal Equipment
